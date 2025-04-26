@@ -24,7 +24,4 @@ This project is a full-stack machine learning application designed to detect ran
 - Context-aware system behavior analysis with zero-shot classification.
 - RAG-based multi-line threat insight generation for ransomware activities.
 
----
-
-Would you also like a **one-line tagline** version for the repo (for the very top of the README)? 🌟
 
