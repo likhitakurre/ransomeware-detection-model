@@ -13,8 +13,8 @@ This project is a full-stack machine learning application designed to detect ran
 - **Logging** with detailed tracking via `app.log`.
 
 ### 🛠️ Tech Stack:
-- Python (Flask, Scikit-learn, Transformers, LangChain, FAISS, OpenCV, Pandas)
-- Machine Learning (Random Forest, Zero-Shot Classification)
+- Python (Flask, Scikit-learn, Transformers, LangChain, FAISS, Pandas)
+- Machine Learning (Random Forest, Zero-Shot Classification,RAG)
 - Natural Language Processing (Phi-2, Hugging Face models)
 - FAISS Vector Store for fast similarity search
 - CORS-enabled REST API
